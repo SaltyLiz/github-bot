@@ -1,1 +1,2 @@
-# github-bot
+# GitHub Contribution Graph Bot
+
