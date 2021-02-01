@@ -1,5 +1,8 @@
 # GitHub Contribution Graph Bot
 
+What it does:
+This Github bot allows you to create fake contributions on your contibution chart.
+
 How to use the bot:
 1. Download zip.
 2. Extract zip.
